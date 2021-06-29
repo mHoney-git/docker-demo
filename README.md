@@ -1,2 +1,2 @@
 # docker-demo
-creating a sample docker image
+creating a docker image to install and run tomcat
