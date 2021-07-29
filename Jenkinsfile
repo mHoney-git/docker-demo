@@ -1,3 +1,3 @@
-@Library("jenkins-prod-shared-library") _
+@Library("honey-shared-library") _
 
 docker(repo:"modihoney55/tomcat-docker")
